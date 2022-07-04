@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "name": "platzi-curso-webpack-react",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kfiguera/platzi-curso-webpack-react.git"
+  },
+  "keywords": [],
+  "author": "Kevin Figuera <kfiguera@smartwebtools.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kfiguera/platzi-curso-webpack-react/issues"
+  },
+  "homepage": "https://github.com/kfiguera/platzi-curso-webpack-react#readme"
+}
